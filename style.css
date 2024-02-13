@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    border: border-box;
+}
+
+#head{
+    height: 70px;
+    width: 100%;
+    color: white;
+    background-color: #222f3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.choose{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    gap: 50px;
+}
+
+#rock{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.chose{
+    border: 7px solid transparent;
+}
+
+.chose:hover{
+    border: 7px solid black;
+}
+
+#paper{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#scissor{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.score{
+    display: flex;
+    justify-content: center;
+    font-size: 65px;
+    gap: 100px;
+}
+
+.score1{
+    display: flex;
+    justify-content: center;
+    font-size: 65px;
+    gap: 70px;
+}
+
+#you{
+    font-size: 30px;
+    position: relative;
+    left: 7px;
+}
+
+#comp{
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+}
+
+#res{
+    margin-top: 60px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#result{
+    height: 80px;
+    width: 270px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
