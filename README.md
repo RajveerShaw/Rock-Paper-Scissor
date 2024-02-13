@@ -1,1 +1,2 @@
-# rock-paper-scissor
+<b>Rock, Paper, Scissors Game</b><br>
+Dive into the classic game of Rock, Paper, Scissors brought to life on the web! This engaging project, crafted with HTML, CSS, and JavaScript, lets users challenge the computer to a quick and fun game of decision-making. The interactive interface allows players to choose their move—rock, paper, or scissors—while the computer responds with its own choice. The game keeps track of scores, providing a lighthearted and entertaining experience for users of all ages. Enjoy the nostalgia and strategic thinking as you play the timeless Rock, Paper, Scissors game in a modern digital format.
